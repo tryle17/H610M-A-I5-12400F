@@ -1,7 +1,10 @@
 # H610M-A-I5-12400F
 ![](截屏2023-02-09 19.24.13.png)
+
 H610M-A I5-12400F EFI分享 
+
 [github链接](https://github.com/hulang-520/H610M-A-I5-12400F)
+
 [镜像下载（提取码：5e4o）](https://www.aliyundrive.com/s/VzHwdQXgpiu)
 ## 配置
 
